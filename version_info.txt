@@ -1,0 +1,34 @@
+# UTF-8
+#
+# Windows PE Version Information for PhotoSheetArranger_4x6.exe
+# Author: Jaimin Rabari (Mo. 9574782643)
+#
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        '040904B0',
+        [StringStruct('CompanyName', 'Jaimin Rabari'),
+        StringStruct('FileDescription', 'Passport & Photo Print Sheet Arranger Pro (Portable Edition)'),
+        StringStruct('FileVersion', '1.0.0.0'),
+        StringStruct('InternalName', 'PhotoSheetArranger_4x6'),
+        StringStruct('LegalCopyright', 'Copyright (C) 2026 Jaimin Rabari. All rights reserved.'),
+        StringStruct('OriginalFilename', 'PhotoSheetArranger_4x6.exe'),
+        StringStruct('ProductName', 'Passport & Photo Print Sheet Arranger Pro'),
+        StringStruct('ProductVersion', '1.0.0.0'),
+        StringStruct('Comments', 'Professional Passport & Visa Studio Print Engine by Jaimin Rabari Mo. 9574782643')])
+      ]), 
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
